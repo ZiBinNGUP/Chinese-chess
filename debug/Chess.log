@@ -1,0 +1,28 @@
+﻿  MOC Board.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file Board.h
+  MOC ChooseDlg.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file ChooseDlg.h
+  MOC CtrlPanel.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file CtrlPanel.h
+  MOC MainWnd.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file MainWnd.h
+  MOC MultiGame.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file MultiGame.h
+  MOC NetGame.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file NetGame.h
+  MOC SingleGame.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file SingleGame.h
+  MOC Step.h
+CUSTOMBUILD : warning : Failed to resolve include "E:/CODING/C++??????/Chess/debug/moc_predefs.h" for moc file Step.h
+  ChooseDlg.cpp
+  moc_Board.cpp
+  moc_ChooseDlg.cpp
+  moc_CtrlPanel.cpp
+  moc_MainWnd.cpp
+  moc_MultiGame.cpp
+  moc_NetGame.cpp
+  E:\CODING\C++中国象棋项目\Chess\NetGame.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  moc_SingleGame.cpp
+  moc_Step.cpp
+  正在生成代码...
+  Chess.vcxproj -> E:\CODING\C++中国象棋项目\Chess\debug\Chess.exe
